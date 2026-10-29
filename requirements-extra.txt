@@ -1,0 +1,4 @@
+# Optional: worker identification by face and printed vest number
+deepface
+tf-keras
+easyocr
